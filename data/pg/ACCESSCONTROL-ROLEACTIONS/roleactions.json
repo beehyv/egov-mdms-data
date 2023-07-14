@@ -25854,6 +25854,198 @@
       "actionid": 2508,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2509,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2513,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2514,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2519,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2520,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2521,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2522,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2524,
+      "actioncode": "",
+      "tenantid": "pg"
+    },  
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 2509,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2513,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2514,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2519,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2520,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2521,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2522,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2524,
+      "actioncode": "",
+      "tenantid": "pg"
     }
   ]
 }
