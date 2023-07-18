@@ -14899,6 +14899,42 @@
       "serviceCode": "loan",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2531,
+      "name": "Scheme Search",
+      "url": "/scheme/v1/_search",
+      "displayName": "Scheme Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "scheme",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2532,
+      "name": "Scheme Create",
+      "url": "/scheme/v1/_create",
+      "displayName": "Scheme Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "scheme",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2533,
+      "name": "Scheme Update",
+      "url": "/scheme/v1/_update",
+      "displayName": "Scheme Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "scheme",
+      "code": "null",
+      "path": ""
     }
    ]
 	
