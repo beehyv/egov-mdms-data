@@ -13,6 +13,21 @@
       "description": "Default role for all employees"
     },
     {
+      "code": "HELPDESK_USER",
+      "name": "HELPDESK USER",
+      "description": "Default role for approving scheme"
+    },
+    {
+      "code": "LEVEL_ONE_LOAN_MANAGER",
+      "name": "LEVEL ONE LOAN MANAGER",
+      "description": "Default role for approving loan"
+    },
+    {
+      "code": "LEVEL_TWO_LOAN_MANAGER",
+      "name": "LEVEL TWO LOAN MANAGER",
+      "description": "Default role for approving higher loan"
+    },
+    {
       "code": "SUPERUSER",
       "name": "Super User",
       "description": "System Administrator. Can change all master data and has access to all the system screens."
