@@ -26046,6 +26046,84 @@
       "actionid": 2524,
       "actioncode": "",
       "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2529,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2530,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2529,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2530,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2529,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2530,
+      "actioncode": "",
+      "tenantid": "pg"
     }
   ]
 }
