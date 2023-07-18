@@ -14827,6 +14827,78 @@
       "serviceCode": "stock",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2525,
+      "name": "Loan Search",
+      "url": "/loan/v1/_search",
+      "displayName": "Loan Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2526,
+      "name": "Loan Create",
+      "url": "/loan/v1/_create",
+      "displayName": "Loan Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2527,
+      "name": "Loan Update",
+      "url": "/loan/v1/_update",
+      "displayName": "Loan Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2528,
+      "name": "Loan Application Search",
+      "url": "/loan/application/v1/_search",
+      "displayName": "Loan Application Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2529,
+      "name": "Loan Application Create",
+      "url": "/loan/application/v1/_create",
+      "displayName": "Loan Application Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2530,
+      "name": "Loan Application Update",
+      "url": "/loan/application/v1/_update",
+      "displayName": "Loan Application Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "loan",
+      "code": "null",
+      "path": ""
     }
    ]
 	
