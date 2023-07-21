@@ -26160,6 +26160,42 @@
       "actionid": 2533,
       "actioncode": "",
       "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_ONE_LOAN_MANAGER",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "LEVEL_TWO_LOAN_MANAGER",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantid": "pg"
     }
   ]
 }
