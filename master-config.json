@@ -8,6 +8,14 @@
       ]
     }
   },
+  "farmer-crop": {
+    "Crop": {
+      "masterName": "Crop",
+      "uniqueKeys": [
+        "$.id"
+      ]
+    }
+ },
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
