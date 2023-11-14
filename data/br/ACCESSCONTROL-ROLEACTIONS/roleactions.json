@@ -1,0 +1,102 @@
+{
+  "tenantId": "br",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 2,
+      "actioncode": "",
+      "tenantId": "br"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 3,
+      "actioncode": "",
+      "tenantId": "br"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 5,
+      "actioncode": "",
+      "tenantId": "br"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 6,
+      "actioncode": "",
+      "tenantId": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SMALL_SCALE_PRODUCER",
+      "actionid": 1,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SMALL_SCALE_PRODUCER",
+      "actionid": 3,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SMALL_SCALE_PRODUCER",
+      "actionid": 4,
+      "actioncode": "",
+      "tenantid": "br"
+    },
+    {
+      "rolecode": "SMALL_SCALE_PRODUCER",
+      "actionid": 6,
+      "actioncode": "",
+      "tenantid": "br"
+    }
+  ]
+}

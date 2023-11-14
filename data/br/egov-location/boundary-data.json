@@ -1,0 +1,404 @@
+{
+  "tenantId": "br",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "lgdCode": 10,
+        "name": "Bihar",
+        "localname": "BIHAR",
+        "longitude": null,
+        "latitude": null,
+        "label": "State",
+        "code": "BR",
+        "children": [
+          {
+            "id": 1,
+            "lgdCode": 188,
+            "name": "Araria",
+            "localname": "अररिया",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "ARA"
+          },
+          {
+            "id": 2,
+            "lgdCode": 611,
+            "name": "Arwal",
+            "localname": "अरवल",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "ARW"
+          },
+          {
+            "id": 3,
+            "lgdCode": 189,
+            "name": "Aurangabad",
+            "localname": "औरंगाबाद",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "AGB"
+          },
+          {
+            "id": 4,
+            "lgdCode": 190,
+            "name": "Banka",
+            "localname": "बांका",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "BNK"
+          },
+          {
+            "id": 5,
+            "lgdCode": 191,
+            "name": "Begusarai",
+            "localname": "बेगूसराय",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "BSR"
+          },
+          {
+            "id": 6,
+            "lgdCode": 192,
+            "name": "Bhagalpur",
+            "localname": "भागलपुर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "BGO"
+          },
+          {
+            "id": 7,
+            "lgdCode": 193,
+            "name": "Bhojpur",
+            "localname": "भोजपुर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "BJP"
+          },
+          {
+            "id": 8,
+            "lgdCode": 194,
+            "name": "Buxar",
+            "localname": "बक्सर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "BUX"
+          },
+          {
+            "id": 9,
+            "lgdCode": 195,
+            "name": "Darbhanga",
+            "localname": "दरभंगा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "DBG"
+          },
+          {
+            "id": 10,
+            "lgdCode": 196,
+            "name": "Gaya",
+            "localname": "गया",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "GAY"
+          },
+          {
+            "id": 11,
+            "lgdCode": 197,
+            "name": "Gopalganj",
+            "localname": "गोपालगंज",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "GPG"
+          },
+          {
+            "id": 12,
+            "lgdCode": 198,
+            "name": "Jamui",
+            "localname": "जमुई",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "JAM"
+          },
+          {
+            "id": 13,
+            "lgdCode": 199,
+            "name": "Jehanabad",
+            "localname": "जहानाबाद",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "JHB"
+          },
+          {
+            "id": 14,
+            "lgdCode": 200,
+            "name": "Kaimur (Bhabua)",
+            "localname": "कैमूर ( भभुआ )",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "KMR"
+          },
+          {
+            "id": 15,
+            "lgdCode": 201,
+            "name": "Katihar",
+            "localname": "कटिहार",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "KTR"
+          },
+          {
+            "id": 16,
+            "lgdCode": 202,
+            "name": "Khagaria",
+            "localname": "खगड़िया",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "KGR"
+          },
+          {
+            "id": 17,
+            "lgdCode": 203,
+            "name": "Kishanganj",
+            "localname": "किशनगंज",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "KSG"
+          },
+          {
+            "id": 18,
+            "lgdCode": 204,
+            "name": "Lakhisarai",
+            "localname": "लखीसराय",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "LSR"
+          },
+          {
+            "id": 19,
+            "lgdCode": 205,
+            "name": "Madhepura",
+            "localname": "मधेपुरा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "MDP"
+          },
+          {
+            "id": 20,
+            "lgdCode": 206,
+            "name": "Madhubani",
+            "localname": "मधुबनी",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "MDB"
+          },
+          {
+            "id": 21,
+            "lgdCode": 207,
+            "name": "Munger",
+            "localname": "मुंगेर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "MNG"
+          },
+          {
+            "id": 22,
+            "lgdCode": 208,
+            "name": "Muzaffarpur",
+            "localname": "मुजफ्फरपुर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "MUZ"
+          },
+          {
+            "id": 23,
+            "lgdCode": 209,
+            "name": "Nalanda",
+            "localname": "नालंदा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "NLD"
+          },
+          {
+            "id": 24,
+            "lgdCode": 210,
+            "name": "Nawada",
+            "localname": "नवादा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "NAW"
+          },
+          {
+            "id": 25,
+            "lgdCode": 211,
+            "name": "Pashchim Champaran",
+            "localname": "पश्चिम चम्पारण",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "PSC"
+          },
+          {
+            "id": 26,
+            "lgdCode": 212,
+            "name": "Patna",
+            "localname": "पटना",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "PTN"
+          },
+          {
+            "id": 27,
+            "lgdCode": 213,
+            "name": "Purbi Champaran",
+            "localname": "पूर्वी चंपारण",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "PRC"
+          },
+          {
+            "id": 28,
+            "lgdCode": 214,
+            "name": "Purnia",
+            "localname": "पूर्णिया",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "PRN"
+          },
+          {
+            "id": 29,
+            "lgdCode": 215,
+            "name": "Rohtas",
+            "localname": "रोहतास",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "RTS"
+          },
+          {
+            "id": 30,
+            "lgdCode": 216,
+            "name": "Saharsa",
+            "localname": "सहरसा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SHS"
+          },
+          {
+            "id": 31,
+            "lgdCode": 217,
+            "name": "Samastipur",
+            "localname": "समस्तीपुर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SMS"
+          },
+          {
+            "id": 32,
+            "lgdCode": 218,
+            "name": "Saran",
+            "localname": "सारण",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SAR"
+          },
+          {
+            "id": 33,
+            "lgdCode": 219,
+            "name": "Sheikhpura",
+            "localname": "शेखपुरा",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SHK"
+          },
+          {
+            "id": 34,
+            "lgdCode": 220,
+            "name": "Sheohar",
+            "localname": "शिवहर",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SHH"
+          },
+          {
+            "id": 35,
+            "lgdCode": 221,
+            "name": "Sitamarhi",
+            "localname": "सीतामढी",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "STM"
+          },
+          {
+            "id": 36,
+            "lgdCode": 222,
+            "name": "Siwan",
+            "localname": "सिवान",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SWN"
+          },
+          {
+            "id": 37,
+            "lgdCode": 223,
+            "name": "Supaul",
+            "localname": "सुपौल",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "SPL"
+          },
+          {
+            "id": 38,
+            "lgdCode": 224,
+            "name": "Vaishali",
+            "localname": "वैशाली",
+            "longitude": null,
+            "latitude": null,
+            "label": "District",
+            "code": "VSH"
+          }
+        ]
+      }
+    }
+  ]
+}

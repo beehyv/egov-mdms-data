@@ -1,0 +1,31 @@
+{
+  "tenantId": "br",
+  "moduleName": "farmer-crop",
+  "Crop": [
+    {
+      "id": "CROP006",
+      "cropName": "rubber"
+    },
+    {
+      "id": "CROP005",
+      "cropName": "azalea"
+    },
+    {
+      "id": "CROP004",
+      "cropName": "corn"
+    },
+    {
+      "id": "CROP003",
+      "cropName": "cotton"
+    },
+    {
+      "id": "CROP002",
+      "cropName": "oats"
+    },
+    {
+      "id": "CROP001",
+      "cropName": "rice"
+    }
+
+  ]
+}

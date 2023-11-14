@@ -1,0 +1,96 @@
+{
+  "tenantId": "br",
+  "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
+  "actions-test": [
+    {
+      "id": 1,
+      "name": "Create Citizen",
+      "url": "/user/citizen/_create",
+      "displayName": "Create Citizen",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Create Citizen"
+    },
+    {
+      "id": 2,
+      "name": "CreateUsernovalidate",
+      "url": "/user/users/_createnovalidate",
+      "displayName": "Create User novalidate",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.CreateUsernovalidate"
+    },
+    {
+      "id": 3,
+      "name": "Get User",
+      "url": "/user/_details",
+      "displayName": "Get User Details",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Get User"
+    },
+    {
+      "id": 4,
+      "name": "Profile Update",
+      "url": "/user/profile/_update",
+      "displayName": "Profile Update",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Profile Update"
+    },
+    {
+      "id": 5,
+      "name": "UpdateUserWithoutValidation",
+      "url": "/user/users/{id}/_updatenovalidate",
+      "displayName": "UserRole Mapping",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.UpdateUserWithoutValidation"
+    },
+    {
+      "id": 6,
+      "name": "Delete Token",
+      "url": "/user/_logout",
+      "displayName": "Delete Token",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Delete Token"
+    },
+    {
+      "id": 7,
+      "name": "CreateOtp",
+      "url": "/otp/v1/_create",
+      "displayName": "Create Otp",
+      "orderNumber": 1,
+      "parentModule": "247",
+      "enabled": false,
+      "serviceCode": "OTP",
+      "code": "null",
+      "path": "Otp.CreateOtp"
+    },
+    {
+      "id": 8,
+      "name": "ValidateOtp",
+      "url": "/otp/v1/_validate",
+      "displayName": "Validate Otp",
+      "orderNumber": 1,
+      "parentModule": "247",
+      "enabled": false,
+      "serviceCode": "OTP",
+      "code": "null",
+      "path": "Otp.ValidateOtp"
+    }
+  ]
+}

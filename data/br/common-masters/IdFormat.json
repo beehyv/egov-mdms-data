@@ -1,0 +1,18 @@
+{
+  "tenantId": "br",
+  "moduleName": "common-masters",
+  "IdFormat": [
+    {
+      "format": "LS-[cy:yyyy-MM-dd]-[SEQ_LIVESTOCK]",
+      "idname": "livestock.id"
+    },
+    {
+      "format": "CR-[cy:yyyy-MM-dd]-[SEQ_CROP]",
+      "idname": "crop.id"
+    },
+    {
+      "format": "FS-[cy:yyyy-MM-dd]-[SEQ_FISHERIES]",
+      "idname": "fisheries.id"
+    }
+  ]
+}

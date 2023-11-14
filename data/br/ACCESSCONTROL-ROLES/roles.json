@@ -1,0 +1,21 @@
+{
+  "tenantId": "br",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "SYSTEM_ADMINISTRATOR",
+      "name": "System Administrator",
+      "description": "System Administrator"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "Super User. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "SMALL_SCALE_PRODUCER",
+      "name": "Small Scale Producer",
+      "description": "Small Scale Producer, Produces on Small Scale"
+    }
+  ]
+}
