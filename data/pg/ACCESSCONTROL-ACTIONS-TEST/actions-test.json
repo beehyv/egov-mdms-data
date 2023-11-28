@@ -18,14 +18,15 @@
       {
       "id": 4401,
       "name": "Dashboard Home",
-      "url": "digit-ui/employee/dss/landing/home",
-      "displayName": "SURE Dashboard",
+      "url": "url",
+      "displayName": "DSS Dashboard",
       "orderNumber": 1,
       "parentModule": "dss",
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Home",
+      "navigationURL": "digit-ui/employee/dss/landing/home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
