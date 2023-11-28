@@ -16,6 +16,44 @@
          "path": "Boundary Module.Get location by LocationName"
       },
       {
+      "id": 2401,
+      "name": "Dashboard Home",
+      "url": "url",
+      "displayName": "SURE Dashboard",
+      "orderNumber": 1,
+      "parentModule": "dss",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "/digit-ui/employee/landing/home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+     },
+     {
+      "id": 2402,
+      "name": "Monthly Dashboard",
+      "url": "/digit-ui/employee/dashboard/dfsdashboard",
+      "displayName": "ULB Dashboard",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "DSHBRD",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2403,
+      "name": "Drill Down By Department Report",
+      "url": "/digit-ui/employee/drillDown",
+      "displayName": "Drill Down By Department Report",
+      "orderNumber": 3,
+      "parentModule": "dss",
+      "enabled": true,
+      "serviceCode": "RPT",
+      "code": "null",
+      "path": ""
+     },
+      {
          "id": 7,
          "name": "Search Boundary by BoundryTypeName and HierarchyTypeName",
          "url": "/v1/location/boundarys/boundariesByBndryTypeNameAndHierarchyTypeName",
