@@ -16,7 +16,7 @@
          "path": "Boundary Module.Get location by LocationName"
       },
       {
-      "id": 2401,
+      "id": 4401,
       "name": "Dashboard Home",
       "url": "url",
       "displayName": "SURE Dashboard",
@@ -31,7 +31,7 @@
       "rightIcon": ""
      },
      {
-      "id": 2402,
+      "id": 4402,
       "name": "Monthly Dashboard",
       "url": "/digit-ui/employee/dashboard/dfsdashboard",
       "displayName": "ULB Dashboard",
@@ -42,7 +42,7 @@
       "path": ""
     },
     {
-      "id": 2403,
+      "id": 4403,
       "name": "Drill Down By Department Report",
       "url": "/digit-ui/employee/drillDown",
       "displayName": "Drill Down By Department Report",
