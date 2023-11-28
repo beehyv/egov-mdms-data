@@ -18,7 +18,7 @@
       {
       "id": 4401,
       "name": "Dashboard Home",
-      "url": "url",
+      "url": "digit-ui/employee/dss/landing/home",
       "displayName": "SURE Dashboard",
       "orderNumber": 1,
       "parentModule": "dss",
@@ -26,14 +26,13 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Home",
-      "navigationURL": "/digit-ui/employee/landing/home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-     },
-     {
+    },
+{
       "id": 4402,
       "name": "Monthly Dashboard",
-      "url": "/digit-ui/employee/dashboard/dfsdashboard",
+      "url": "/digit-ui/employee/dss/dashboard/dfsdashboard",
       "displayName": "ULB Dashboard",
       "orderNumber": 2,
       "enabled": true,
@@ -41,10 +40,10 @@
       "code": "null",
       "path": ""
     },
-    {
+ {
       "id": 4403,
       "name": "Drill Down By Department Report",
-      "url": "/digit-ui/employee/drillDown",
+      "url": "/digit-ui/employee/dss/drillDown",
       "displayName": "Drill Down By Department Report",
       "orderNumber": 3,
       "parentModule": "dss",
@@ -52,7 +51,7 @@
       "serviceCode": "RPT",
       "code": "null",
       "path": ""
-     },
+    },
       {
          "id": 7,
          "name": "Search Boundary by BoundryTypeName and HierarchyTypeName",
