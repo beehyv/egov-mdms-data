@@ -9,6 +9,9 @@
       "active": true,
       "order":2,
       "tenants": [
+	{
+          "code": "pg"
+	}, 
         {
           "code": "pg.citya"
         },
@@ -346,6 +349,9 @@
       "active": true,
       "order":6,
       "tenants": [
+	{
+          "code": "pg"
+	}, 
         {
           "code": "pg.citya"
         },
@@ -415,6 +421,9 @@
       "active": true,
       "order":2,
       "tenants": [
+	{
+          "code": "pg"
+	}, 
         {
           "code": "pg.citya"
         },
